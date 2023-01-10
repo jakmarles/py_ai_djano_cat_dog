@@ -11,7 +11,8 @@ The user can then access the website and submit an image, the image is then pass
 ## Deployment
 
 
-IN ORDER FOR IT TO WORK YOU WILL NEED python version 3.10.0
+IN ORDER FOR IT TO WORK YOU WILL NEED PYTHON VERSION 3.10.0
+
 Create Virtual Environment.
 
 ```bash
@@ -35,6 +36,6 @@ Navigate to http://127.0.0.1:8000/upload/
 
 ## Authors
 
-- [@jakmarles](https://github.com/jakmarles) - Ilya Bronfman
+- [@jakmarles](https://github.com/jakmarles)
 
-![Credits](https://img.shields.io/badge/Credits-Ilya%20Bronfman-green)
+
