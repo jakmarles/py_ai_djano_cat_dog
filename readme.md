@@ -39,3 +39,6 @@ Navigate to http://127.0.0.1:8000/upload/
 - [@jakmarles](https://github.com/jakmarles)
 
 
+# todo/known bugs - 
+If the picture upload aint a cat/dog/couldnt recoginze say so.
+if no picture selected and the client click upload an error pop up, need to either disable the button if no pic selected or fix it 
